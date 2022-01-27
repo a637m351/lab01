@@ -3,3 +3,9 @@ in a galaxy far away
 a git repository 
 was initialized
 
+but the student
+ran the first command
+in the wrong directory
+and so then he initialized it with a verbose message explaining the empty commit beforehand.
+
+
