@@ -1,0 +1,5 @@
+A long long time ago
+in a galaxy far away
+a git repository 
+was initialized
+
